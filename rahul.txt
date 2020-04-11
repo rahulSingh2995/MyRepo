@@ -1,4 +1,9 @@
 A: at 15:41
 B: at 15:46
+<<<<<<< HEAD
 C: in branch at 15:52
 D: in master branch 15:55
+=======
+C: at 15:57
+>>>>>>> b1
+D: at 18:25
